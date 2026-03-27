@@ -24,46 +24,29 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </p>
 
-<h3 align="left">🧠 Current Architecture: Leviathan</h3>
+### 🧠 Current Architecture: Leviathan
 
 ```mermaid
 flowchart LR
   subgraph 00_Central_Governance
-    A[ガバナンス] --> B[政策・ルール管理]
-    A --> C[セキュリティ監査]
+    A[ガバナンス] --> B[ルール管理]
   end
 
   subgraph 01_Reactor
-    D[Adapters] --> E[外部AI/トークン]
-    F[Alpha_Frontier] --> G[推論エンジン]
-    H[Beta_Business] --> I[サービスAPI]
-    J[Common_Bridge] --> K[ログ/メトリクス]
+    D[Adapters] --> E[外部AI]
+    G[推論エンジン] --> R[mcp_agent_kernel]
   end
 
   subgraph 02_Research
-    L[Scouts] --> M[リサーチパイプライン]
-    N[Vector_Libraries] --> O[埋め込み検索]
-  end
-
-  subgraph 03_Protocol
-    P[CONSTITUTION] --> Q[状態同期]
-    R[mcp_agent_kernel] --> S[署名検証]
+    M[パイプライン] --> G
+    O[埋め込み検索] --> G
   end
 
   subgraph 04_workspace
-    T[01_LIVE] --> U[運用ダッシュボード]
-    V[02_ASSETS] --> W[資産管理]
-  end
-
-  subgraph 99_Legacy_Archives
-    X[アーカイブ]
+    U[ダッシュボード]
   end
 
   A --> D
   G --> R
-  K --> U
   M --> G
   O --> G
-  Q --> U
-  S --> G
-  X --> Limport datetime, pathlib, importlib.util
