@@ -50,3 +50,6 @@ flowchart LR
   G --> R
   M --> G
   O --> G
+  Q --> U
+  S --> G
+  X --> L
