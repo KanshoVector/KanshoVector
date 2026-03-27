@@ -29,15 +29,41 @@
 ```mermaid
 flowchart LR
   subgraph 00_Central_Governance
-    A[Governance] --> B[Rules]
-    A --> C[Audit]
+    A[ガバナンス] --> B[政策・ルール管理]
+    A --> C[セキュリティ監査]
   end
+
   subgraph 01_Reactor
-    D[Adapters] --> E[External AI]
-    G[Inference Engine] --> R[MCP Agent Kernel]
+    D[Adapters] --> E[外部AI/トークン]
+    F[Alpha_Frontier] --> G[推論エンジン]
+    H[Beta_Business] --> I[サービスAPI]
+    J[Common_Bridge] --> K[ログ/メトリクス]
   end
+
   subgraph 02_Research
-    M[Research Pipeline] --> G
-    O[Vector Search] --> G
+    L[Scouts] --> M[リサーチパイプライン]
+    N[Vector_Libraries] --> O[埋め込み検索]
   end
+
+  subgraph 03_Protocol
+    P[CONSTITUTION] --> Q[状態同期]
+    R[mcp_agent_kernel] --> S[署名検証]
+  end
+
+  subgraph 04_workspace
+    T[01_LIVE] --> U[運用ダッシュボード]
+    V[02_ASSETS] --> W[資産管理]
+  end
+
+  subgraph 99_Legacy_Archives
+    X[アーカイブ]
+  end
+
   A --> D
+  G --> R
+  K --> U
+  M --> G
+  O --> G
+  Q --> U
+  S --> G
+  X --> Limport datetime, pathlib, importlib.util
