@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Reo Sato (KanshoVector)</h1>
-<h3 align="center">Data Science Student | AI-Driven Architect | Developing "Leviathan" (Personal AI OS)</h3>
+<h3 align="center">Data Science Student | Full-Stack Developer</h3>
 
-- 🔭 I’m currently working on **Developing "Leviathan" - A personal autonomous agent system focusing on resource-constrained optimization.**
-- 🌱 I’m currently learning **Model Context Protocol (MCP), LLM Orchestration, and System Architecture.**
+- 🔭 I’m currently working on **Data Science, Cloud Infrastructure, and Full-Stack App Development.**
+- 🌱 I’m currently learning **Formal Verification (Rust/Solidity), LLM Orchestration, and System Architecture.**
 - 👨‍💻 My portfolio and archive: [Notion Portfolio](https://www.notion.so/2014328fbafc80a18200c1ec6d13c228)
-- 💬 Ask me about **How to bridge human cognition and AI through high-level system design.**
+- 💬 Ask me about **Hackathon projects, Bayesian Statistics, and AI-assisted fast prototyping.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,4 +23,3 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </p>
-
