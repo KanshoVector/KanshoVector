@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Reo Sato (KanshoVector)</h1>
-<h3 align="center">Data Science Student | Full-Stack Developer</h3>
+<h1 align="center">こんにちは👋、佐藤玲央（KanshoVector）です</h1>
+<h3 align="center">データサイエンス専攻の学生 |フルスタック開発者</h3>
 
-- 🔭 I’m currently working on **Data Science, Cloud Infrastructure, and Full-Stack App Development.**
-- 🌱 I’m currently learning **Formal Verification (Rust/Solidity), LLM Orchestration, and System Architecture.**
-- 👨‍💻 My portfolio and archive: [Notion Portfolio](https://www.notion.so/2014328fbafc80a18200c1ec6d13c228)
-- 💬 Ask me about **Hackathon projects, Bayesian Statistics, and AI-assisted fast prototyping.**
+- 🔭 現在、**データサイエンス、クラウドインフラストラクチャ、フルスタックアプリケーション開発**に取り組んでいます。
+- 🌱 現在、**形式検証（Rust/Solidity）、LLMオーケストレーション、システムアーキテクチャ**を学習中です。
+- 👨‍💻 ポートフォリオとアーカイブ：[Notion Portfolio](https://www.notion.so/2014328fbafc80a18200c1ec6d13c228)
+- 💬 **ハッカソンプロジェクト、ベイズ統計、AI支援による高速プロトタイピング**についてお気軽にお問い合わせください。
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
