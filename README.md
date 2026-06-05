@@ -1,15 +1,22 @@
-<h1 align="center">こんにちは👋、佐藤怜央（KanshoVector）です</h1>
-<h3 align="center">データサイエンス専攻の学生 |フルスタック開発者</h3>
+# 佐藤怜央 (Reo Sato / KanshoVector)
+**データサイエンス専攻（学部3年）｜数理モデリング × 本番デプロイ × AIネイティブ開発**
 
-- 🔭 現在、**データサイエンス、クラウドインフラストラクチャ、フルスタックアプリケーション開発**に取り組んでいます。
-- 🌱 現在、**形式検証（Rust/Solidity）、LLMオーケストレーション、システムアーキテクチャ**を学習中です。
-- 👨‍💻 ポートフォリオとアーカイブ：[Notion Portfolio](https://www.notion.so/2014328fbafc80a18200c1ec6d13c228)
-- 💬 **ハッカソンプロジェクト、ベイズ統計、AI支援による高速プロトタイピング**についてお気軽にお問い合わせください。
+ベイズ統計と意思決定ロジックを座学に留めず、本番環境で動くシステムへ落とし込みます。
+LLMを協調相手として全体設計に集中し、試作から本番デプロイまでを短サイクルで回します。
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.kaggle.com/oreo01mofu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
-</p>
+### 代表プロジェクト
+- **Bayesian Disaster Priority** — ベイズ推論アンサンブル(MCMC/BN/NB)で不確実性(HDI)を可視化・本番稼働 → https://github.com/KanshoVector/bayesian-disaster-priority
+- **ResQGo** — 災害救助マッチング(Flutter/Firebase/Google Cloud IAM)・ハッカソン本番デプロイ → https://github.com/s2422073/ResQGo
+- **Cyber-Physical Tremor Simulator** — 臨床データの支配的周波数をロボット制御で物理再現(CPS) → https://github.com/KanshoVector/cyber-physical-tremor-simulator
+- **Nostalgic Bulletin Board** — フレームワーク非依存でWeb3層(認証/セッション/CRUD)を自力構築(PHP/PostgreSQL) → https://github.com/s2422073/Nostalgic-bulletin-board
+
+### Kaggle — https://www.kaggle.com/oreo01mofu
+Hull Tactical（Featured・進行中・暫定上位約2.7%／3,677チーム）｜Road Accident Risk（259位/4,082・上位約6.3%）
+
+### 学習中
+形式検証(Rust/Kani・Solidity/Foundry)・LLMオーケストレーション・システムアーキテクチャ
+
+📄 ポートフォリオ全体: https://www.notion.so/2014328fbafc80a18200c1ec6d13c228
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
