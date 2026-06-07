@@ -11,7 +11,14 @@ LLMを協調相手として全体設計に集中し、試作から本番デプ�
 - **Nostalgic Bulletin Board** — フレームワーク非依存でWeb3層(認証/セッション/CRUD)を自力構築(PHP/PostgreSQL) → https://github.com/s2422073/Nostalgic-bulletin-board
 
 ### Kaggle — https://www.kaggle.com/oreo01mofu
-Hull Tactical（Featured・進行中・暫定上位約2.7%／3,677チーム）｜Road Accident Risk（259位/4,082・上位約6.3%）
+単なるスコア追求ではなく、複雑な時系列データや評価指標の制約をどう読み解き、システム実装に応用可能にするかのプロセスを重視しています。
+
+- **Hull Tactical (Featured/時系列予測):**
+  - **Challenge:** 市場特有のノイズとボラティリティに対する頑健な予測。
+  - **Approach:** トレンド分類器（方向性の特定）と投資配分回帰器（確信度の重み付け）を分離したアンサンブルモデルを設計。
+  - **Engineering:** モデルの出力だけでなく、HDI（高濃度確信区間）を算出することで、意思決定者に「確信の度合い」を提示する実運用を想定した推論プロセスを構築。
+- **Road Accident Risk (予測):**
+  - **Approach:** 地理的・環境的制約を考慮した特徴量エンジニアリングを優先。モデルのブラックボックス化を防ぎ、予測の根拠を説明可能な設計に注力。
 
 ### 学習中
 形式検証(Rust/Kani・Solidity/Foundry)・LLMオーケストレーション・システムアーキテクチャ
