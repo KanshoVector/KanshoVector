@@ -33,7 +33,7 @@
 - **Links**: [GitHub](https://github.com/KanshoVector/cyber-physical-tremor-simulator)
 
 ### 📝 Nostalgic Bulletin Board — ゼロベースでのWeb3層構造構築
-フレームワークのブラックボックス（自動生成）に依存せず、Webの基本原則を自力で再現した位置情報連動型メディアログ。
+動的な懐古記録を参照する、位置情報連動型メディアログ。
 - **Abstract & Leverage**: 認証、セッション管理、複雑なCRUDをライブラリなしで構築。将来的なグループ拡張を見据え、公開範囲の動的制御をDB設計レベルでモジュール化。
 - **Links**: [GitHub](https://github.com/KanshoVector/Nostalgic-bulletin-board) / [Production](https://muds.gdl.jp/~s2422073/login.php)
 
