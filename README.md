@@ -6,7 +6,7 @@ LLMを協調相手として全体設計に集中し、試作から本番デプ�
 
 ### 代表プロジェクト
 - **Bayesian Disaster Priority** — ベイズ推論アンサンブル(MCMC/BN/NB)で不確実性(HDI)を可視化・本番稼働 → https://github.com/KanshoVector/bayesian-disaster-priority
-- **ResQGo** — 災害救助マッチング(Flutter/Firebase/Google Cloud IAM)・ハッカソン本番デプロイ → https://github.com/s2422073/ResQGo
+- **ResQGo** — 災害救助マッチング(Flutter/Firebase/Google Cloud IAM)・ハッカソン本番デプロイ → https://github.com/KanshoVector/ResQGo
 - **Cyber-Physical Tremor Simulator** — 臨床データの支配的周波数をロボット制御で物理再現(CPS) → https://github.com/KanshoVector/cyber-physical-tremor-simulator
 - **Nostalgic Bulletin Board** — フレームワーク非依存でWeb3層(認証/セッション/CRUD)を自力構築(PHP/PostgreSQL) → https://github.com/s2422073/Nostalgic-bulletin-board
 
